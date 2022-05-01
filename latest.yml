@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-Setup-1.0.0.exe
+    sha512: vSwZLcVJvTpz/EVg3xTa/FID2jkq5fzPn0mqcJEV4AjUv+bLBbDEcLd6hLWhxhhuTy+D9bF+yDA1CP+sB+yWaw==
+    size: 67918034
+path: electron-Setup-1.0.0.exe
+sha512: vSwZLcVJvTpz/EVg3xTa/FID2jkq5fzPn0mqcJEV4AjUv+bLBbDEcLd6hLWhxhhuTy+D9bF+yDA1CP+sB+yWaw==
+releaseDate: '2022-05-01T14:15:50.493Z'
